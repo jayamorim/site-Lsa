@@ -1,5 +1,5 @@
 <?php 
-$pg = $_REQUEST['pg'];
+$pg = $_REQUEST['pg'] ?? "";
 if($pg == ""){$pg = "inicio";}
 
 switch($pg){	
