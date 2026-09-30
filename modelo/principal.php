@@ -552,7 +552,7 @@
                                     </div>
                                     <div class="contact-text">
                                         <h5 class="mb-1">Endereço</h5>
-                                        <p>Rua Alda de Andrade, N° 217, Imbiribeira, Recife – PE</p>
+                                        <p>Rua Dr. Sabino Pinho, 173 - Madalena - Recife - PE, CEP: 50.610-380.</p>
                                     </div>
                                 </li>
                                 <li class="d-flex pb-3">
@@ -561,7 +561,7 @@
                                     </div>
                                     <div class="contact-text">
                                         <h5 class="mb-1">E-mail</h5>
-                                        <p>atendimento@slamedicalprinting.com.br</p>
+                                        <p>atendimento@lsamedicalprinting.com.br</p>
                                     </div>
                                 </li>
                             </ul>

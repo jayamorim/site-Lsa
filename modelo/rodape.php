@@ -28,7 +28,7 @@
                     </a>
                     <br>
                     <p>Nosso foco é a área Médica de Diagnóstico por Imagem. Atendemos com total exclusividade este segmento com experiência Técnica de mercado há mais de 15 anos!
-                    Nossa equipe é altamente capacitada e certificada pelo fabricante xerox com projetos de sucesso e referência no Nordeste (Recife e Região Metropolitana, Agreste e Sertão Pernambucano, Paraíba, Rio Grande do Norte, Alagoas) além dos estados do Paraná e São Paulo.</p>
+                    Nossa equipe é altamente capacitada e certificada pelo fabricante xerox, com projetos de sucesso em todo o território nacional.</p>
                     <div class="list-inline social-list-default background-color social-hover-2 mt-2">
                         <li class="list-inline-item"><a class="instagram" href="https://www.instagram.com/lsa_medical/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                         <li class="list-inline-item"><a class="facebook" href="#"><i class="fab fa-facebook"></i></a></li>                     
