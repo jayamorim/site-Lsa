@@ -367,7 +367,7 @@
                                                 <img src="assets/img/client/1.jpg" alt="client" class="img-fluid">
                                             </div>
                                             <div class="media-body text-white">
-                                                <h5 class="mb-0 text-white">Layse Acilio</h5>
+                                                <h5 class="mb-0 text-white">José Acilio</h5>
                                                 <span></span>
                                             </div>
                                             <i class="fas fa-quote-right text-white"></i>
